@@ -1,4 +1,4 @@
-# X-0-GAME-IN-C-
+# X-0-GAME-IN-CPP-
 
 The first .cpp file ("1.x&0 w 012345678") is x&0 where you have to type a number from 0 to 8 ("0" represents the first square on the table, "1" the second, and and so on and so forth) and press "enter" to confirm your square
 
